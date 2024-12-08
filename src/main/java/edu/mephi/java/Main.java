@@ -23,6 +23,7 @@ public class Main {
 				if (game.isGameOver() && e.getKeyCode() == KeyEvent.VK_R) {
 					game.restart();
 				}
+
 			}
 		});
 
